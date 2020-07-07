@@ -1,0 +1,126 @@
+{
+  "uid" : "763455da97860117",
+  "name" : "test_002",
+  "fullName" : "scripts.test_002_fixture.Test_bcd#test_002",
+  "historyId" : "401272d43d6518c281ac85038b5cb3fe",
+  "time" : {
+    "start" : 1594055065382,
+    "stop" : 1594055065382,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "bcd001",
+    "time" : {
+      "start" : 1594055065381,
+      "stop" : 1594055065381,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "cde001",
+    "time" : {
+      "start" : 1594055065381,
+      "stop" : 1594055065381,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1594055065381,
+      "stop" : 1594055065381,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1594055065384,
+      "stop" : 1594055065384,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "@pytest.mark.usefixtures('bcd001', 'cde001')"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_002_fixture"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_bcd"
+  }, {
+    "name" : "host",
+    "value" : "bbr1914"
+  }, {
+    "name" : "thread",
+    "value" : "16052-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_002_fixture"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "52f08a63cacfc579",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594054694729,
+        "stop" : 1594054694730,
+        "duration" : 1
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ "@pytest.mark.usefixtures('bcd001', 'cde001')" ]
+  },
+  "source" : "763455da97860117.json",
+  "parameterValues" : [ ]
+}

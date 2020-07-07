@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","scripts.test_002_fixture.Test_bcd#test_002","0",""
+"passed","scripts.test_001.Test_ABC#test_b","1",""
+"passed","scripts.test_001.Test_ABC#test_a","1",""

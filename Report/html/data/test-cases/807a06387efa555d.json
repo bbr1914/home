@@ -1,0 +1,88 @@
+{
+  "uid" : "807a06387efa555d",
+  "name" : "test_a",
+  "fullName" : "scripts.test_001.Test_ABC#test_a",
+  "historyId" : "e8be2b7ec18464f3f01e9f095eba2caa",
+  "time" : {
+    "start" : 1594053949071,
+    "stop" : 1594053949072,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1594053949069,
+      "stop" : 1594053949069,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1594053949072,
+      "stop" : 1594053949072,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "run(order=-1)"
+  }, {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_001"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_ABC"
+  }, {
+    "name" : "host",
+    "value" : "bbr1914"
+  }, {
+    "name" : "thread",
+    "value" : "10200-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_001"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "run(order=-1)" ]
+  },
+  "source" : "807a06387efa555d.json",
+  "parameterValues" : [ ]
+}
