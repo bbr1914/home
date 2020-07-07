@@ -1,6 +1,4 @@
 import pytest
-import sys,os
-sys.append
 class Test_ABC:
 
     def setup_class(self):
