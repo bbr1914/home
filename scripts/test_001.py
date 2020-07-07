@@ -15,5 +15,9 @@ class Test_ABC:
         print(">>>>>>>test_b")
         assert True
 
+    def test_c(self):
+        print(">>>>>>>test_c")
+        assert True
+
 if __name__ == '__main__':
     pytest.main("-s test_001.py")
